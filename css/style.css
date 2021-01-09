@@ -318,6 +318,7 @@ to{transform:scale(1)}
 .w3-left{float:left!important}
 .w3-right{float:right!important}
 .w3-button:hover{color:#000!important;background-color:#ccc!important}
+.w3-button:focus{color:#000!important;background-color:#ccc!important}
 .w3-hover-none:hover,.w3-transparent{background-color:transparent!important}
 .w3-hover-none:hover{box-shadow:none!important}
 .w3-amber,.w3-hover-amber:hover{color:#000!important;background-color:#ffc107!important}
